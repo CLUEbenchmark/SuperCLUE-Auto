@@ -145,3 +145,10 @@
 相对于第一轮问题的得分，多数模型的第二轮问题得分都有不同程度的下降（最高下降4.4分）；但也有一些模型的得分保持相对稳定
 （如，GPT3.5, MiniMax-Abab5,5,ChatGLM-6B），体现出一些模型在多轮交互场景模型能力的良好的鲁棒性。
 
+# 交流与沟通
+
+<p float="left">   
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/superclue_auto.png"  width="30%" height="30%"></img>
+
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
+</p>
