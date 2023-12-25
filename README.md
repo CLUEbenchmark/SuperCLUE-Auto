@@ -106,7 +106,7 @@
 
 （第一轮对话）
 
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto70.png"  width="70%" height="70%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto30.png"  width="70%" height="70%"></img>
  
  （第二轮对话）
  
