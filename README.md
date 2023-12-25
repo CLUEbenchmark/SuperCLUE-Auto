@@ -148,7 +148,6 @@
 # 交流与沟通
 
 <p float="left">   
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/superclue_auto.png"  width="30%" height="30%"></img>
-
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/superclue_autogroup.jpeg"  width="30%" height="30%"></img>
   <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/brightmart_s.jpeg"  width="30%" height="30%"></img>
 </p>
