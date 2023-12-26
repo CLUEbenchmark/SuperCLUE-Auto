@@ -86,41 +86,41 @@
 
 （第一轮对话）
 
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto10.png"  width="70%" height="70%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto10.png"  width="87%" height="87%"></img>
 
 （第二轮对话）
 
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto11.png"  width="70%" height="70%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto11.png"  width="87%" height="87%"></img>
 
 ### 示例2：汽车营销
 
 （第一轮对话）
 
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto20.png"  width="70%" height="70%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto20.png"  width="87%" height="87%"></img>
 
 （第二轮对话）
 
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto21.png"  width="70%" height="70%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto21.png"  width="87%" height="87%"></img>
 
 ### 示例3：汽车理解及知识
 
 （第一轮对话）
 
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto30.png"  width="70%" height="70%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto30.png"  width="87%" height="87%"></img>
  
  （第二轮对话）
  
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto31.png"  width="70%" height="70%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto31.png"  width="87%" height="87%"></img>
 
 ### 示例4：车辆使用指南
 
 （第一轮对话）
 
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto40.png"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto40.png"  width="87%" height="87%"></img>
  
  （第二轮对话）
  
-  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto41.png"  width="30%" height="30%"></img>
+  <img src="https://github.com/CLUEbenchmark/SuperCLUE-Auto/blob/main/resources/img/auto41.png"  width="87%" height="87%"></img>
 
 
 
